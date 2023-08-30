@@ -23,7 +23,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * 
 
 
-## 🚀 Configurando o Phishing no Kali Linux
+## 🚀 Preparando o Linux
 
 Siga estas etapas:
 
